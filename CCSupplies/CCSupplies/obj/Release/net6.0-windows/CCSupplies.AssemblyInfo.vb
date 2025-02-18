@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("CCSupplies"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Release"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47462022d1bc94f5cecc0546d5c60d7dcc53c43e"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d50d10bf7e373124ea1b7363f7fa659469cc1f8f"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("CCSupplies"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("CCSupplies"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
