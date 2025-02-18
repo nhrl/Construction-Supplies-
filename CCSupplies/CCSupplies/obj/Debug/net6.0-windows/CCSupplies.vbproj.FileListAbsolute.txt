@@ -1,0 +1,45 @@
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.vbproj.AssemblyReference.cache
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.GeneratedMSBuildEditorConfig.editorconfig
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.AssemblyInfoInputs.cache
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.AssemblyInfo.vb
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.vbproj.CoreCompileInputs.cache
+E:\Winrar\CC8\CCSupplies\bin\Debug\net6.0-windows\CCSupplies.exe
+E:\Winrar\CC8\CCSupplies\bin\Debug\net6.0-windows\CCSupplies.deps.json
+E:\Winrar\CC8\CCSupplies\bin\Debug\net6.0-windows\CCSupplies.runtimeconfig.json
+E:\Winrar\CC8\CCSupplies\bin\Debug\net6.0-windows\CCSupplies.dll
+E:\Winrar\CC8\CCSupplies\bin\Debug\net6.0-windows\CCSupplies.pdb
+E:\Winrar\CC8\CCSupplies\bin\Debug\net6.0-windows\FireSharp.dll
+E:\Winrar\CC8\CCSupplies\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\Winrar\CC8\CCSupplies\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+E:\Winrar\CC8\CCSupplies\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.dll
+E:\Winrar\CC8\CCSupplies\bin\Debug\net6.0-windows\System.Net.Http.Extensions.dll
+E:\Winrar\CC8\CCSupplies\bin\Debug\net6.0-windows\System.Net.Http.Primitives.dll
+E:\Winrar\CC8\CCSupplies\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.dll
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\refint\CCSupplies.dll
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.pdb
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.genruntimeconfig.cache
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\ref\CCSupplies.dll
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.MainMenu.resources
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.vbproj.GenerateResource.cache
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.Login.resources
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.Overview.resources
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.vbproj.ResolveComReference.cache
+E:\Winrar\CC8\CCSupplies\bin\Debug\net6.0-windows\Interop.WMPLib.dll
+E:\Winrar\CC8\CCSupplies\bin\Debug\net6.0-windows\AxInterop.WMPLib.dll
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\AxInterop.WMPLib.dll
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.vbproj.Up2Date
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.Sign_in.resources
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.UserProfile.resources
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.UpdateProfile.resources
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.Orders.resources
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.Resources.resources
+E:\Winrar\CC8\CCSupplies\bin\Debug\net6.0-windows\Firebase.Storage.dll
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.Loader.resources
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.AddProduct.resources
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.inv.resources
+E:\Winrar\CC8\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.EditProduct.resources
+C:\Users\SaS PC\Desktop\Project\Construction-Supplies-\CCSupplies\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.dll
+C:\Users\SaS PC\Desktop\Project\Construction-Supplies-\CCSupplies\CCSupplies\obj\Debug\net6.0-windows\refint\CCSupplies.dll
+C:\Users\SaS PC\Desktop\Project\Construction-Supplies-\CCSupplies\CCSupplies\obj\Debug\net6.0-windows\CCSupplies.pdb

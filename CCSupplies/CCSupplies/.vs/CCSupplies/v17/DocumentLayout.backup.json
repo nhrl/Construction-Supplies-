@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\UpdateProfile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UpdateProfile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\UpdateProfile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UpdateProfile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\EditProduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EditProduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\EditProduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EditProduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\UserProfile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserProfile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\UserProfile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserProfile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\AddProduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AddProduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\AddProduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AddProduct.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\Orders.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Orders.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\Orders.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Orders.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\Inventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Inventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\Inventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Inventory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\Overview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Overview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\Overview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Overview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateProfile.vb",
+              "DocumentMoniker": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\UpdateProfile.vb",
+              "RelativeDocumentMoniker": "UpdateProfile.vb",
+              "ToolTip": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\UpdateProfile.vb",
+              "RelativeToolTip": "UpdateProfile.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-31T03:38:04.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateProfile.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\UpdateProfile.vb",
+              "RelativeDocumentMoniker": "UpdateProfile.vb",
+              "ToolTip": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\UpdateProfile.vb [Design]",
+              "RelativeToolTip": "UpdateProfile.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-31T03:38:02.755Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditProduct.vb",
+              "DocumentMoniker": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\EditProduct.vb",
+              "RelativeDocumentMoniker": "EditProduct.vb",
+              "ToolTip": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\EditProduct.vb",
+              "RelativeToolTip": "EditProduct.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-31T03:37:41.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditProduct.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\EditProduct.vb",
+              "RelativeDocumentMoniker": "EditProduct.vb",
+              "ToolTip": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\EditProduct.vb [Design]",
+              "RelativeToolTip": "EditProduct.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-31T03:37:39.598Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserProfile.vb",
+              "DocumentMoniker": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\UserProfile.vb",
+              "RelativeDocumentMoniker": "UserProfile.vb",
+              "ToolTip": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\UserProfile.vb",
+              "RelativeToolTip": "UserProfile.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-31T03:37:14.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserProfile.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\UserProfile.vb",
+              "RelativeDocumentMoniker": "UserProfile.vb",
+              "ToolTip": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\UserProfile.vb [Design]",
+              "RelativeToolTip": "UserProfile.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-31T03:37:12.593Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddProduct.vb",
+              "DocumentMoniker": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\AddProduct.vb",
+              "RelativeDocumentMoniker": "AddProduct.vb",
+              "ToolTip": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\AddProduct.vb",
+              "RelativeToolTip": "AddProduct.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-31T03:35:58.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddProduct.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\AddProduct.vb",
+              "RelativeDocumentMoniker": "AddProduct.vb",
+              "ToolTip": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\AddProduct.vb [Design]",
+              "RelativeToolTip": "AddProduct.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-31T03:35:56.726Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Orders.vb",
+              "DocumentMoniker": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\Orders.vb",
+              "RelativeDocumentMoniker": "Orders.vb",
+              "ToolTip": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\Orders.vb",
+              "RelativeToolTip": "Orders.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-31T03:34:47.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Orders.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\Orders.vb",
+              "RelativeDocumentMoniker": "Orders.vb",
+              "ToolTip": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\Orders.vb [Design]",
+              "RelativeToolTip": "Orders.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-29T03:17:19.154Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Inventory.vb",
+              "DocumentMoniker": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\Inventory.vb",
+              "RelativeDocumentMoniker": "Inventory.vb",
+              "ToolTip": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\Inventory.vb",
+              "RelativeToolTip": "Inventory.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-31T03:34:00.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Inventory.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\Inventory.vb",
+              "RelativeDocumentMoniker": "Inventory.vb",
+              "ToolTip": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\Inventory.vb [Design]",
+              "RelativeToolTip": "Inventory.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-31T03:33:57.701Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Overview.vb",
+              "DocumentMoniker": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\Overview.vb",
+              "RelativeDocumentMoniker": "Overview.vb",
+              "ToolTip": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\Overview.vb",
+              "RelativeToolTip": "Overview.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-31T03:33:37.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Overview.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\Overview.vb",
+              "RelativeDocumentMoniker": "Overview.vb",
+              "ToolTip": "C:\\Users\\SaS PC\\Desktop\\Project\\Construction-Supplies-\\CCSupplies\\CCSupplies\\Overview.vb [Design]",
+              "RelativeToolTip": "Overview.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-31T03:33:35.529Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
